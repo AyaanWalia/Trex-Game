@@ -1,0 +1,68 @@
+INF:20200808:135858.618: Start Watcher
+INF:20200808:135858.746: Socket::read instance_0 pendingIO state 1
+DBG:20200808:135858.746: Socket::read instance_0 GetOverlappedResult read 0, dwErr 0
+DBG:20200808:135858.746: Socket::read instance_0 read size 0, fSuccess 0
+ERR:20200808:135858.746: Socket::read instance_0 failed with error code 997
+INF:20200808:135858.810: Socket::read instance_0 pendingIO state 1
+DBG:20200808:135858.810: Socket::read instance_0 GetOverlappedResult read 6, dwErr 0
+INF:20200808:135858.810: register process
+INF:20200808:135858.810: pid 17480
+INF:20200808:135858.810: isCritical 0
+INF:20200808:135858.810: Processes size: 1
+INF:20200808:135858.811: Socket::read instance_0 pendingIO state 0
+INF:DBG:20200808:135858.811: Start monitoring
+20200808:135858.811: Socket::read instance_0 read size 0, fSuccess 0
+ERR:20200808:135858.811: Socket::read instance_0 failed with error code 997
+INF:20200808:135900.048: Socket::read instance_1 pendingIO state 1
+DBG:20200808:135900.048: Socket::read instance_1 GetOverlappedResult read 0, dwErr 0
+DBG:20200808:135900.048: Socket::read instance_1 read size 0, fSuccess 0
+ERR:20200808:135900.048: Socket::read instance_1 failed with error code 997
+INF:20200808:135900.112: Socket::read instance_1 pendingIO state 1
+DBG:20200808:135900.113: Socket::read instance_1 GetOverlappedResult read 6, dwErr 0
+INF:20200808:135900.113: register process
+INF:20200808:135900.113: pid 1324
+INF:20200808:135900.113: isCritical 0
+INF:20200808:135900.113: Processes size: 2
+INF:20200808:135900.113: Socket::read instance_1 pendingIO state 0
+DBG:20200808:135900.113: Socket::read instance_1 read size 0, fSuccess 0
+ERR:20200808:135900.113: Socket::read instance_1 failed with error code 997
+INF:20200808:135900.175: Socket::read instance_2 pendingIO state 1
+DBG:20200808:135900.175: Socket::read instance_2 GetOverlappedResult read 0, dwErr 0
+DBG:20200808:135900.175: Socket::read instance_2 read size 6, fSuccess 1
+INF:20200808:135900.175: register process
+INF:20200808:135900.175: pid 11528
+INF:20200808:135900.175: isCritical 0
+INF:20200808:135900.175: Processes size: 3
+INF:20200808:135900.175: Socket::read instance_2 pendingIO state 0
+DBG:20200808:135900.175: Socket::read instance_2 read size 0, fSuccess 0
+ERR:20200808:135900.175: Socket::read instance_2 failed with error code 997
+INF:20200808:135900.237: Socket::read instance_3 pendingIO state 1
+DBG:20200808:135900.237: Socket::read instance_3 GetOverlappedResult read 0, dwErr 0
+DBG:20200808:135900.237: Socket::read instance_3 read size 6, fSuccess 1
+INF:20200808:135900.237: register process
+INF:20200808:135900.237: pid 5208
+INF:20200808:135900.237: isCritical 0
+INF:20200808:135900.237: Processes size: 4
+INF:20200808:135900.237: Socket::read instance_3 pendingIO state 0
+DBG:20200808:135900.237: Socket::read instance_3 read size 0, fSuccess 0
+ERR:20200808:135900.237: Socket::read instance_3 failed with error code 997
+INF:20200808:135902.169: Socket::read instance_4 pendingIO state 1
+DBG:20200808:135902.169: Socket::read instance_4 GetOverlappedResult read 0, dwErr 0
+DBG:20200808:135902.169: Socket::read instance_4 read size 6, fSuccess 1
+INF:20200808:135902.170: register process
+INF:20200808:135902.170: pid 9972
+INF:20200808:135902.170: isCritical 1
+INF:20200808:135902.170: Processes size: 5
+INF:20200808:135902.170: Socket::read instance_4 pendingIO state 0
+DBG:20200808:135902.170: Socket::read instance_4 read size 0, fSuccess 0
+ERR:20200808:135902.170: Socket::read instance_4 failed with error code 109
+INF:20200808:135902.170: DisconnectAndReconnect start for 4
+INF:20200808:150057.718: Socket::read instance_5 pendingIO state 1
+DBG:20200808:150057.718: Socket::read instance_5 GetOverlappedResult read 0, dwErr 0
+DBG:20200808:150057.718: Socket::read instance_5 read size 5, fSuccess 1
+INF:20200808:150057.718: unregister process
+INF:20200808:150057.719: pid 9972
+INF:20200808:150057.719: isCritical 1
+INF:20200808:150057.778: End monitoring
+INF:20200808:150102.534: End Watcher
+INF:20200808:150102.534: Terminating application
